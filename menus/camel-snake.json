@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle camel-snake",
+        "command": "camel-snake:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "camel-snake",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "camel-snake:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
