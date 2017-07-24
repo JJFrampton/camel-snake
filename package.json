@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "camel-snake:toggle"
   },
-  "repository": "https://github.com/atom/camel-snake",
+  "repository": "git@bitbucket.org:Josephjamesframpton/atom-camelsnake.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
