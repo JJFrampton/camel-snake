@@ -2,7 +2,7 @@
   "name": "camel-snake",
   "main": "./lib/camel-snake",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Quickly create and toggle between snake and camel-case",
   "keywords": [
   ],
   "activationCommands": {
